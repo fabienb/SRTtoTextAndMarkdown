@@ -1,0 +1,6 @@
+{
+    "name": "SRT to Text and Markdown",
+    "description": "Converts SRT subtitles to plain text and Markdown formats.",
+    "author": "Fabien Butazzi | @fabienb",
+    "version": "1.0.0"
+}

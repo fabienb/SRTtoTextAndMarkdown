@@ -1,0 +1,10 @@
+[
+    {
+        "caption": "Convert SRT to Text",
+        "command": "convert_srt_to_text"
+    },
+    {
+        "caption": "Convert SRT to Markdown",
+        "command": "convert_srt_to_markdown"
+    }
+]
