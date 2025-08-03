@@ -2,6 +2,8 @@
 
 A Sublime Text plugin that converts SRT (SubRip Subtitle) files into clean, readable text or Markdown format.
 
+**I am happy to release this plugin for FREE. But if this is helpful to you in any way, please consider donating via [Paypal](https://paypal.me/fabienbutazzi) or use the Sponsor links in the sidebar to support this work and future enhancements.**
+
 ## Features
 
 - **Convert SRT to Text**: Transforms subtitle files into clean, paragraph-formatted text
